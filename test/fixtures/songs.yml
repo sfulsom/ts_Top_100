@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  artist: MyString
+  runtime: 1.5
+  top_100: false
+  billboard: one
+  artist: 
+
+two:
+  title: MyString
+  artist: MyString
+  runtime: 1.5
+  top_100: false
+  billboard: two
+  artist: 
